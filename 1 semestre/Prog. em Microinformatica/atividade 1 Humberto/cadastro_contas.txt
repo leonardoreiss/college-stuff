@@ -1,0 +1,65 @@
+Private Sub btn_cadastrar_Click()
+If txt_nome = Empty Or _
+   txt_cpf = Empty Or _
+   txt_senha = Empty Or _
+   txt_rsenha = Empty Then
+   
+   MsgBox ("Preencha todos os campos!!!"), vbExclamation + vbOKOnly, "ATENÇÃO"
+   Exit Sub
+ElseIf txt_senha <> txt_rsenha Then
+   MsgBox ("Senhas não conferem!!!"), vbExclamation + vbOKOnly, "ATENÇÃO"
+   Exit Sub
+Else
+   cont_linhas = 10
+   id_conta = 1
+   Sheets("CONTAS LOGIN").Select
+   Do While Range("I" & cont_linhas).Value <> Empty
+      If Range("J" & cont_linhas).Value = txt_cpf Then
+         MsgBox ("CPF já cadastrado!!!"), vbExclamation + vbOKOnly, "ATENÇÃO"
+         Exit Sub
+      End If
+      
+      If Range("K" & cont_linhas).Value = txt_nome Then
+         MsgBox ("Nome já cadastrado!!!"), vbExclamation + vbOKOnly, "ATENÇÃO"
+         Exit Sub
+      End If
+      
+      cont_linhas = cont_linhas + 1
+      id_conta = id_conta + 1
+      
+    Loop
+    Range("I" & cont_linhas).Value = id_conta
+    Range("J" & cont_linhas).Value = UCase(txt_cpf)
+    Range("K" & cont_linhas).Value = UCase(txt_nome)
+    Range("L" & cont_linhas).Value = txt_senha
+    Range("M" & cont_linhas).Value = "ATIVA"
+    resp = MsgBox("Deseja criar nova conta?", vbQuestion + vbYesNo, "AVISO")
+    
+    If resp = vbYes Then
+       txt_cpf = Empty
+       txt_nome = Empty
+       txt_senha = Empty
+       txt_rsenha = Empty
+       txt_cpf.SetFocus
+    Else
+       Unload Me
+       frm_login.Show
+    End If
+End If
+      
+   
+End Sub
+
+
+Private Sub chk_visualizar_Click()
+
+
+If chk_visualizar.Value = True Then
+  txt_senha.PasswordChar = ""
+  txt_rsenha.PasswordChar = ""
+Else
+   txt_senha.PasswordChar = "•"
+   txt_rsenha.PasswordChar = "•"
+End If
+   
+End Sub
