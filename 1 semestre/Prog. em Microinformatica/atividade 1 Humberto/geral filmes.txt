@@ -1,0 +1,53 @@
+Public nome, usuario, cpf, senha As String
+Public genero, filme As String
+Public id_filme, cont_linhas As Integer
+
+Function chamar_login()
+If Plan2.Visible = xlSheetVeryHidden Then
+   frm_login.Show
+Else
+    resp = MsgBox("Conta já logada!" + vbNewLine & _
+            "Deseja encerrar sessão?", vbQuestion + vbYesNo, "ATENÇÃO")
+      If resp = vbYes Then
+         Call ocultar_planilhas
+      End If
+     
+End If
+End Function
+
+Function chamar_locacao()
+
+frm_filmes.Show
+
+End Function
+
+Function sair_planilha()
+    resp = MsgBox("Deseja Realmente Sair?", vbQuestion + vbYesNo, "ATENÇÂO")
+     If resp = vbYes Then
+        ActiveWorkbook.Save
+        Application.Quit
+     End If
+End Function
+
+Function ocultar_planilhas()
+
+    Plan2.Visible = xlSheetVeryHidden
+    Plan3.Visible = xlSheetVeryHidden
+    Plan4.Visible = xlSheetVeryHidden
+    Plan5.Visible = xlSheetVeryHidden
+    Planilha1.Visible = xlSheetVeryHidden
+    Application.StatusBar = "FAÇA O LOGIN DA CONTA!"
+End Function
+
+Function exibir_planilhas()
+
+    Plan2.Visible = xlSheetVisible
+    Plan3.Visible = xlSheetVisible
+    Plan4.Visible = xlSheetVisible
+    Plan5.Visible = xlSheetVisible
+    Planilha1.Visible = xlSheetVisible
+    Application.StatusBar = "Conta Logada"
+End Function
+
+
+
