@@ -1,0 +1,71 @@
+O que vem depois do G# ? | musica | 2 | C | A | D#m | Abacaxi
+Qual é a Clave mais utilizada ? | musica | 3 | Clave de F | Clave de B | Clave de G | A#
+Como é feito um acorde maior ? | musica | 1 | T 3 5 | T 4 9 | 9 4 7 | T 2 5
+Qual é a função de um metrônomo ? | musica | 4 | Escutar | Cifrar | Afinar | Marcar o tempo
+Qual acorde não faz parte da tonalidade de G ? | musica | 3 | G | Bm| D# | Em
+Qual acorde não faz parte da tonalidade de B ? | musica | 1 | F#m | C#m | E | G#m
+Qual acorde não faz parte da tonalidade de Am ? | musica | 4 | C | Dm | Em | F#
+Quantas cordas tem um baixo acustico convencional ? | musica | 2 | 2 | 4 | 6 | 8
+O piano é um instrumento de : | musica | 2 | Sopro | Cordas | Teclas | Eletricidade
+Qual dessas musicas não é do Tim Maia:| musica | 1 | Casa Cheia | Você | Sossego | Azul Da Cor Do Mar
+Qual é a capital do Brasil ? | geografia | 2 | São Paulo | Brasília | Rio de Janeiro | Pernambuco
+Qual desses países não fica na America do Sul ? | geografia | 2 | Brasil | Bosnia | Argentina | Uruguai
+Qual desses não fazem parte dos EUA? | geografia | 2 | Nova York | Toronto | Kansas | Nova Jersey
+O Egito fica em qual continente ? | geografia | 1 | África | América | Ásia | Europeu
+A França não faz fronteira com qual desses países ?| geografia | 4 | Bélgica | Itália | Portugal | Suiça
+A capital dos Emirados Árabes Unidos é: | geografia | 3 | Doha | Dubai | Abu Dhabi | Istambul
+Qual é a capital do Canadá? | geografia | 1 | Ottawa | Toronto | Winnipeg | Edmonton
+Os Estados Unidos e a Rússia estão a quantos quilômetros de distância? | geografia | 3 | 126Km | 460Km | 88Km | 980Km
+Qual é o maior deserto do mundo? | geografia | 2 | Grande Deserto de Vitória | Deserto Antártico | Saara | Deserto de Gobi
+Quantos fusos horários a China tem? | geografia | 3 | 2 | 5 | 1 | 7
+123 + 456 | Matemática | 2 | 1024 | 579 | 2 | 578
+Uma tonelada corresponde a: | Matemática | 2 | 1000 litros | 1000 Quilogramas | 1000 Metros | 1000 Graus 
+É um paralelogramo que possui os quatro lados sempre iguais: | Matemática | 2 | Cubo | Losango | Círculo | Trapézio
+Na fração, o número que fica em baixo é chamado de... | Matemática | 4 | Fracionário | Primo | Quociente | Denominador
+7 * 7 | Matemática | 3 | Macaco | 21| 49 | 53
+45 + 1 | Matemática | 2 | 2 | 46 | 32 | 45123584318,1
+12 / 1 | Matemática | 1| 12 | 24 | 36 | 48
+54 - 50| Matemática | 3 | 12 | 46 | 4 | 50
+12 * 12 | Matemática | 4 | 17 | 13 | 162 | 144
+Quanto vale PI: | Matemática | 3 | 3,18... | 2,40... | 3,14... | 7,10...
+Quem instalou a primeira ferrovia de trem no Brasil? | história | 3 | Getúlio Vargas | Richard Trevithick | Irineu Evangelista | Dom Pedro II
+Qual o ano de Quebra da Bolsa em Nova York? | história |2 | 1922 | 1929 | 1919 | 1992
+Nome do primeiro presidente da República: | história | 1 | Deodoro da Fonseca | Floriano Peixoto | Prudente de Morais | Campos Sales
+Ano de término da Segunda Guerra Mundial: | história | 4 | 1939 | 1940 | 1942 | 1945
+Qual o lugar onde ocorreu a primeira Revolação Industrial? | história | 2 | França | Inglaterra | Portugual | Espanha
+O titulo de "Berço dos mitos" e grande referência na Filosofia pertence a qual país? | história | 4 | França | Espanha | Italia | Grécia
+Ano de instalação do Regime Militar no Brasil: | história | 1 | 1964 | 1985 | 1972 | 1934
+Nome das regiões prejudicadas por uma bomba lançada pelos Estados Unidos em 1945: | história | 2 | Haiti e Nicarágua | Hiroshima e Nagasaki | Cuba e Porto Rico | Filipinas e Panamá
+Joaquim José da Silva Xavier (Tiradentes), teve participação em qual movimento? | história | 1 | Inconfidência Mineira | conjuração Baiana | Guerra Dos Mascates | Sabinada
+Quem foi o Primeiro presidente norte americano? | história | 3 | Thomas Jefferson | Abraham Lincoln | Georgie Washington | John F. Kennedy
+Qual das alternativas é o maior osso do corpo humano?| corpo humano | 3 | estribo | cranio | fêmur | costela
+Responda a quantidade correspondente de sangue que nosso corpo é capaz de armazenar:| corpo humano | 1 | 5L | 3L | 8L | 4L
+Quantas vezes por dia um coração adulto é capaz de bater?| corpo humano | 2 | 50 mil vezes | 100 mil vezes | 150 mil vezes | 200 mil vezes
+Nome do Sentido que nos faz enxergar: | corpo humano | 4 | audição | faro | tato | visão
+Partes do corpo feitas da mesma substância: | corpo humano | 3 | figado e pulmão | nariz e orelhas | cabelos e unhas | pés e mãos
+Qual a média de vezes que piscamos em 30 segundos? | corpo humano | 1 | 6 vezes | 4 vezes | 8 vezes | 2 vezes
+Marque a porcentagem que todos os ossos representam no peso corporal: | corpo humano | 2 | 10% | 15% | 20% | 25%
+Qual das alternativas NÃO é um sentido? | corpo humano | 4 | audição | visão | tato | espirrar
+Qual o orgão mais pesado do corpo humano? | corpo humano | 1 | pele | figado | pulmão | coração
+Marque a alternativa correspondente a quantidade de neorônios que o cerebro possui: | corpo humano | 2 | duzentos bilhões | cem bilhões | duzentos milhões | cem milhões
+Melhor tradução para a palavra "pretend" | inglês | 2 | pretender | inventar | produzir | inovar
+Qual das alternativas completa a frase "I don`t know, which ____? The pink one or the blue one?" | inglês | 4 | them | they | ones | one
+O tempo verbal da frase "I had noticed his determination before we officially met."? | inglês | 2 | present | past perfect | present continous | simple perfect
+Qual é a tradução para frase "Dogs are not allowed in the restaurant." | inglês | 3 | cachorros não comem em restaurante | cachorros não vão ao restaurante | Cachorros não são permitidos no restaurante | cachorrosnsão permitidos no restaurante
+Um grupo de mulheres, é colocado como: | inglês | 2 | woman | women | womans | wemens
+Marque a alternativa cujo os adjetivos estão na sequências corretas: | inglês | 1 | an bealtiful old American song | An Old bealtiful American song | a Song bealtiful old american | a American bealtiful song old.
+He e She são respectivamente: | inglês | 4 | conectivos | espressões | advérbios | pronomes
+Melhor tradução para a expressão "its a piece of cake" | inglês | 1 | é facíl | é dificil | é assustador | é engraçado
+A frase "She did something bad" esta em qual tempo verbal? | inglês | 3 | present | future | simple past | present perfect
+Melhor tradução para palavra pursue | inglês | 1 | perseguir | persuadir | possuir | planejar
+Nome do inventor da lampada incandescente: | conhecimentos gerais | 2 | Santos Dummont | Thomas Edison | Leonardo da Vinci | Galileu Galiei 
+Qual destes artistas NÃO tem seu nome dado a uma tartaruga ninja? | conhecimentos gerais | 3 | Michelangelo | Rafael | Rembradt | Donetello
+Qual das alternativas é um prato típico mineiro? | conhecimentos gerais | 2 | vatapá | pão de queijo | acarajé | pastel
+Quem nasce em Natal é: | conhecimentos gerais | 3 | natalenio | natalino | natalense| natauense
+No gênero de filme terror, qual destes bonecos não possui uma maldição? | conhecimentos gerais | 1 | Billy | Anabelle | Chuck | Charlotte
+A boneca Barbie ficou conhecida também por "possuir" diversas profissões, aproximadamente quantas são elas? | conhecimentos gerais | 1 | +180 | +100 | +70 | +130
+No Reality Show Big Brother Brasil em 2020, quais foram os participantes do paredão historíco do programa?| conhecimentos gerais | 2 | Thelma e Pyong | Manu Gavassi e Felipe Prior | Pyong e Felipe Prior | Babu e Marcela
+Qual destes animes ainda está no ar por mais de 20 anos? | conhecimentos gerais | 2 | Naruto | One Piece | Dragon Ball | Bleach
+A série Round 6 popularizou qual brincadeira infantil? | conhecimentos gerais | 4 | pega pega | pula corda | amarelinha | batatinha frita 123
+O museu mais visitado do mundo, Louvre, se localiza aonde?| conhecimentos gerais | 4 | Roma | Berlim | Moscou | Paris
+TESTE AAAAAAAAAAA| hfhfhfhsrklnjçdflhnogkç | 4 | Roma | Berlim | Moscou | Paris
