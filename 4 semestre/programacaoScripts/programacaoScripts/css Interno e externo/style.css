@@ -1,0 +1,23 @@
+div{
+    background-color: black;
+    color: white;
+}
+
+#kleber {
+    color: green;
+    background-color: bisque;
+}
+
+.noite {
+    background-color: black;
+    color:hsla(9, 100%, 64%, 0.5);
+}
+button {
+    width: 300px;
+    border: 15px solid purple;
+    padding: 50px;
+    margin: 20px;
+}
+
+/*salve*/
+
