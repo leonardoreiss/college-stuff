@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aula 23/03/2023 Matrizes</title>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body onload="exibe()">
+  <script>
+    function exibe(){
+     /* 
+      let carros=["fusca", "brasilia", "corcel","corcel", "kombi"];
+      alert(carros.pop());
+      alert("O corcel esta no indice: " + carros.indexOf("corcel"));
+      alert(carros.push("rural"));
+      alert(carros.join("\n"));
+      alert("O ultimo corcel esta no indice: " + carros.lastIndexOf("corcel"));
+      alert(carros.reverse());
+      alert(carros.shift());
+      alert(carros.sort());
+    */
+      let num = [5,7,9,11];
+      //alert(num);
+      document.getElementById("exibir").innerHTML = num;    
+
+      let frutas = ["pitomba", "quixaba", "joá", "condessa"];
+      frutas.splice(2, 0, "siriguela");
+      alert(frutas);  
+      alert(frutas.unshift("melão"))
+      alert(frutas);
+
+
+      let m =[["x", "x", "o"],["o", "x", "o"],["x", "o","x"]];
+      document.getElementById("exibir").innerHTML = (m[0] + "\n" + m[1]); 
+
+    }
+  </script>
+  <label id="exibir"></label>
+  <h1>Oi</h1>
+</body>
+</html>

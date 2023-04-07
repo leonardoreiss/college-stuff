@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aula 23/03/2023 Matrizes</title>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <script>
+    function exibe(){
+      let dicio = [
+        ["azul", "blue"],
+        ["preto", "black"],
+        ["amarelo", "yellow"], 
+        ["verde", "green"],
+        ["vermelho", "red"],
+        ["rosa", "pink"],
+        ["roxo", "purple"],
+        ["branco", "white"],
+        ["laranja", "orange"]
+      ];
+      const core = document.getElementById("cor").value;
+      let v = false;
+      for(let l = 0; l < 8; l++){
+        if(core === dicio[l][0]){
+          document.getElementById("traduz").innerHTML =  dicio[l][1];
+          v = true;
+        } 
+      }
+      if(v == false){document.getElementById("traduz").innerHTML =  "Não temos essa cor no BD"};
+      
+    }
+  </script>
+  <p>Uma cor: </p>
+  <input type="text" nome= "cor1" id = "cor">
+  <button onclick="exibe()">OK</button>
+  <label id="traduz"></label>
+</body>
+</html>

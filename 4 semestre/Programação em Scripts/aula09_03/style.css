@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+
+div{
+    background-color: black;
+    color: white;
+}
+
+button {
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    background-color: yellow;
+    text-align: center;
+    font-family: fantasy;
+}
+
+demo {
+    color: white;
+}
