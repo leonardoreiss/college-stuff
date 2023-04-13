@@ -1,0 +1,5 @@
+ajax é a tecnica de receber e enviar dados para o servidor
+
+o JS cria um objeto XMLHttpRequest e envia ao servidor
+o servidor processa e manda uma resposta para o cliente
+o navegador processa a resposta usando JS e atualiza o conteudo da pgn sem recarregá-la
