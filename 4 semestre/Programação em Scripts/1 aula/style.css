@@ -1,0 +1,21 @@
+body 
+{
+    background-color: #000000;
+    color: aliceblue;
+}
+
+.container /* batata */
+{
+    margin: 0 auto;
+    width: 960px;
+    background-color: green;
+    color: yellow;
+}
+
+.link /* batata */
+{
+    margin: 0 auto;
+    width: 960px;
+    background-color: yellow;
+    color: blue;
+}

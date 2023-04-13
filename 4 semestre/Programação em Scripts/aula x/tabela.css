@@ -1,0 +1,16 @@
+table, th, td 
+{
+    border:1px solid gold;
+    color: pink;
+    
+}
+table
+{
+    border-collapse: collapse;
+}
+body 
+{
+    background-color: #000000;
+    color: aliceblue;
+}
+
